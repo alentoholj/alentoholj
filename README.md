@@ -4,11 +4,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="40px" />
 </a>
   &nbsp;&nbsp;
 <a href="https://instagram.com/alen.toholj" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="40px" />
 </a>
   &nbsp;&nbsp;</p>
 
