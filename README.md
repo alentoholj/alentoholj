@@ -39,3 +39,6 @@
 
 #### OS Stack
 <p align="left"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504927.png" alt="Windows" title="Windows" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="Linux" title="Linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" title="CentOS" width="40" height="40"/></p>
+
+#### Project Management Stack
+<p align="left"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3628645-3029870.png?f=avif&w=256" alt="Azure Devops" title="Azure Devops" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=256" alt="GitHub" title="GitHub" width="40" height="40"/> <img src="https://img.icons8.com/?size=512&id=oROcPah5ues6&format=png" alt="Jira" title="Jira" width="40" height="40"/></p>
