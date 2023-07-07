@@ -1,4 +1,5 @@
-Hi👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina ![image](https://github.com/alentoholj/alentoholj/assets/82238804/e9f2ea7f-084a-4f6a-b450-8c6aeff4fcd5)
+Hi👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina ![image](https://github.com/alentoholj/alentoholj/assets/82238804/26042d26-5d2d-435e-8127-c8dc51ae0cb6)
+
 
 
 <!--
