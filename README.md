@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina ![image](https://github.com/alentoholj/alentoholj/assets/82238804/e9f2ea7f-084a-4f6a-b450-8c6aeff4fcd5)
+
 
 <!--
 **alentoholj/alentoholj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
