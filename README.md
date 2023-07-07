@@ -18,11 +18,13 @@
 
 💡 Hashtag that describes me **`#IT Enthusiast`**
 
-⚡ Fun fact **We guys automate stuff**
+⚡ Fun fact: **We guys automate stuff**
 
 🌱 I’m currently learning **Designing and Implementing Microsoft DevOps Solutions-AZ400**
 
-##### 🧾 Certifications I have Accomplished
+<br></br>
+
+#### **🧾 Certifications I have Accomplished**
 
 - 🎖 Microsoft Certified: Azure Fundamentals - [AZ-900](https://www.credly.com/badges/cdb9bd7b-ca0f-4c56-9d93-2bdbd7efb41c/linked_in_profile)
 
