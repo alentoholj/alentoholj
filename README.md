@@ -1,27 +1,36 @@
-# <div align="center">Hi👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina ![image](https://github.com/alentoholj/alentoholj/assets/82238804/26042d26-5d2d-435e-8127-c8dc51ae0cb6)</div>
+<h1 align="center">Hi 👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina 🇮🇳</h1>
+<h3 align="center">The DevOps and System Engineer guy who loves different technologies :smile:</h3>
 
-### <div align="center">The DevOps and System Engineer guy who loves different technologies :smile:</div>
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/alen-toholj-326014141/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/062b4af6c06aa3ae4b1c887623bd949d380eb7909029aba14b280c2c72a0380e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332f69636f6e732f6c696e6b6564696e2e737667" alt="yatharth7" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" style="max-width: 100%;" width="22px" align="middle">
+<p align="center">
+<a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
 </a>
-    <a href="https://instagram.com/alen.toholj" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/47e6da37a551e8ee9acd70cb283d098ccfa80cfb74c085c0677f573c0bb536f9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332f69636f6e732f696e7374616772616d2e737667" alt="yatharth_sharma_7" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" style="max-width: 100%;" width="22px" align="middle">
+  &nbsp;&nbsp;
+<a href="https://instagram.com/alen.toholj" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
 </a>
-  </p>
-</div>
-<!--
-**alentoholj/alentoholj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  &nbsp;&nbsp;</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 I’m currently working in [Klika](https://www.klika.us/) as **DevOps Engineer**
+
+💡 Hashtag that describes me **`#IT Enthusiast`**
+
+⚡ Fun fact **We guys automate stuff**
+
+🌱 I’m currently learning **Designing and Implementing Microsoft DevOps Solutions-AZ400**
+
+##### 🧾 Certifications I have Accomplished
+
+- 🎖 Microsoft Certified: Azure Fundamentals - [AZ-900](https://www.credly.com/badges/cdb9bd7b-ca0f-4c56-9d93-2bdbd7efb41c/linked_in_profile)
+
+- 🎖 Microsoft Certified: Azure Administrator Associate - [AZ-104](https://www.credly.com/badges/f292d424-12dc-4a96-aeaf-4e32a6cb80f0/linked_in_profile)
+
+- 🎖 AWS Certified Cloud Practitioner - [AWS Cloud Practitioner](https://www.credly.com/badges/e24d36be-bf69-4180-8a0c-c238c6bbe23c/linked_in_profile)
+
+- 🎖 Certified Linux Administrator (LPIC-1) - [LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000511607/7ccdb96qh8)
+
+- 🎖 Red Hat® Certified System Administrator (RHCSA®) [RHCSA](https://www.credly.com/badges/5a2ef478-5955-449c-9046-cee45d83b927/linked_in_profile)
+
+#### OS Stack
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/></p>
