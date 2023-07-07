@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina 🇮🇳</h1>
+<br></br>
 <h3 align="center">The DevOps, Cloud and System Engineer guy who loves different technologies :smile:</h3>
 
 <p align="center">
@@ -11,6 +12,8 @@
 </a>
   &nbsp;&nbsp;</p>
 
+<br></br>
+<br></br>
 
 🏢 I’m currently working in [Klika](https://www.klika.us/) as **DevOps Engineer**
 
@@ -32,5 +35,8 @@
 
 - 🎖 Red Hat® Certified System Administrator (RHCSA®) [RHCSA](https://www.credly.com/badges/5a2ef478-5955-449c-9046-cee45d83b927/linked_in_profile)
 
+#### Cloud Platforms
+<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" title="Microsoft Azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/></p>
+
 #### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/></p>
+<p align="left"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504927.png" alt="Windows" title="Windows" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="Linux" title="Linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" title="CentOS" width="40" height="40"/></p>
