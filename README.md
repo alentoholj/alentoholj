@@ -13,7 +13,6 @@
   &nbsp;&nbsp;</p>
 
 <br></br>
-<br></br>
 
 🏢 I’m currently working in [Klika](https://www.klika.us/) as **DevOps Engineer**
 
