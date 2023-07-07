@@ -42,3 +42,7 @@
 
 #### Project Management Stack
 <p align="left"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3628645-3029870.png?f=avif&w=256" alt="Azure Devops" title="Azure Devops" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=256" alt="GitHub" title="GitHub" width="40" height="40"/> <img src="https://img.icons8.com/?size=512&id=oROcPah5ues6&format=png" alt="Jira" title="Jira" width="40" height="40"/></p>
+
+#### Editor / IDE I
+<p align="left"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/sublime-text-icon.png" alt="Sublime" title="Sublime" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSC" title="VSC" width="40" height="40"/></p>
+
