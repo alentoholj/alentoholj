@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina 🇧🇦</h1>
 <br></br>
 <h3 align="center">The DevOps, Cloud and System Engineer guy who loves different technologies :smile:</h3>
 
