@@ -20,8 +20,6 @@
 
 ⚡ Fun fact: **We guys automate stuff**
 
-🌱 I’m currently learning **Designing and Implementing Microsoft DevOps Solutions-AZ400**
-
 <br></br>
 
 #### **🧾 Certifications I have Accomplished**
