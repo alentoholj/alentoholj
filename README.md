@@ -28,12 +28,13 @@
 
 - 🎖 Microsoft Certified: Azure Administrator Associate - [AZ-104](https://www.credly.com/badges/f292d424-12dc-4a96-aeaf-4e32a6cb80f0/linked_in_profile)
 
+- 🎖 Microsoft Certified: DevOps Engineer Expert - [AZ-400](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/DB331F78114B0761?sharingId)
+
 - 🎖 AWS Certified Cloud Practitioner - [AWS Cloud Practitioner](https://www.credly.com/badges/e24d36be-bf69-4180-8a0c-c238c6bbe23c/linked_in_profile)
 
 - 🎖 Certified Linux Administrator (LPIC-1) - [LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000511607/7ccdb96qh8)
 
 - 🎖 Red Hat® Certified System Administrator (RHCSA®) [RHCSA](https://www.credly.com/badges/5a2ef478-5955-449c-9046-cee45d83b927/linked_in_profile)
-- 🎖 Microsoft Certified: DevOps Engineer Expert - [AZ-400](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/DB331F78114B0761?sharingId)
 
 #### Cloud Platforms
 <p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" title="Microsoft Azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/></p>
