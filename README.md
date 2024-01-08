@@ -24,9 +24,9 @@
 
 #### **🧾 Certifications I have Accomplished**
 
-- 🎖 Microsoft Certified: Azure Fundamentals - [AZ-900](https://www.credly.com/badges/cdb9bd7b-ca0f-4c56-9d93-2bdbd7efb41c/linked_in_profile)
+- 🎖 Microsoft Certified: Azure Fundamentals - [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/BC2DEE263AC0C649?sharingId=DEA67547D200D4A9)
 
-- 🎖 Microsoft Certified: Azure Administrator Associate - [AZ-104](https://www.credly.com/badges/f292d424-12dc-4a96-aeaf-4e32a6cb80f0/linked_in_profile)
+- 🎖 Microsoft Certified: Azure Administrator Associate - [AZ-104](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/710E750EEFA6EBD0?sharingId=DEA67547D200D4A9)
 
 - 🎖 Microsoft Certified: DevOps Engineer Expert - [AZ-400](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/DB331F78114B0761?sharingId)
 
