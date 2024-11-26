@@ -14,7 +14,7 @@
 
 <br></br>
 
-🏢 I’m currently working in [Klika](https://www.klika.us/) as **DevOps Engineer**
+🏢 I’m currently working in [Blum](https://www.blum.com/de/de/) as **Cloud Solution Architect/Platform Operations**
 
 💡 Hashtag that describes me **`#IT Enthusiast`**
 
