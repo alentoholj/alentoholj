@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alen 🌀 from Bosnia and Herzegovina 🇧🇦</h1>
 <br></br>
-<h3 align="center">Cloud, DevOps & Systems Engineer with a passion for building scalable infrastructure and automating workflows. :smile:</h3>
+<h3 align="center">Cloud, DevOps & Systems Engineer with a passion for building scalable infrastructure and automating workflows. </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="_blank">
