@@ -3,14 +3,15 @@
 <h3 align="center">Cloud, DevOps & Systems Engineer with a passion for building scalable infrastructure and automating workflows. :smile:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="40px" />
-</a>
+  <a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40px" alt="LinkedIn"/>
+  </a>
   &nbsp;&nbsp;
-<a href="https://instagram.com/alen.toholj" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="40px" />
-</a>
-  &nbsp;&nbsp;</p>
+
+  <a href="https://instagram.com/alen.toholj" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40px" alt="Instagram"/>
+  </a>
+</p>
 
 <br></br>
 
