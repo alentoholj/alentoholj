@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alen Toholj 🌀 from Bosnia and Herzegovina 🇧🇦</h1>
+<h1 align="center">Hi 👋, I'm Alen 🌀 from Bosnia and Herzegovina 🇧🇦</h1>
 <br></br>
 <h3 align="center">Cloud, DevOps & Systems Engineer with a passion for building scalable infrastructure and automating workflows. :smile:</h3>
 
@@ -19,6 +19,20 @@
 💡 Passionate about cloud technologies, automation, and continuous learning.
 
 ⚡ Fun fact: **We guys automate stuff**
+
+<br></br>
+
+### 🧑‍💻 About Me
+
+I like building things that scale and fixing things that don’t.
+
+Currently working as a Cloud Solution Architect, my path started in system engineering and grew through DevOps, where I found my passion for cloud and automation.
+
+Along the way, I’ve been involved in projects spanning data center operations and modern cloud environments, learning how to design systems that are not just functional, but resilient and efficient.
+
+Backed by a Master’s degree and real-world experience, I enjoy turning complex challenges into simple, practical solutions.
+
+Curious by nature, I’m always learning and exploring new technologies, because there’s always a smarter way to build.
 
 <br></br>
 
