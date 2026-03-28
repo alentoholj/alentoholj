@@ -16,7 +16,7 @@
 
 🏢 I’m currently working in [Blum](https://www.blum.com/de/de/) as **Cloud Solution Architect/Platform Operations**
 
-💡 Hashtag that describes me **`#IT Enthusiast`**
+💡 Passionate about cloud technologies, automation, and continuous learning.
 
 ⚡ Fun fact: **We guys automate stuff**
 
