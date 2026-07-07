@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://alentoholj.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-alentoholj.dev-f4b942?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1620" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-f4b942?style=for-the-badge&logo=githubpages&logoColor=0b1620&labelColor=f4b942" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
