@@ -66,20 +66,6 @@ My path started in systems engineering and data-center operations, which is wher
 
 ---
 
-### Featured Work
-
-_Selected engagements — client details withheld under NDA._
-
-- **Storage Platform — Architecture, Deployment & CI/CD** — Designed the cloud architecture
-  for a storage API and its companion service, provisioned and deployed the underlying resources,
-  and established CI/CD pipelines for the repositories to automate build, test, and release. ·
-  `Azure` `Terraform` `CI/CD`
-
-<!-- Add more engagements below in the same format. Keep them NDA-safe: describe the work and
-     outcome, anonymize the client to a sector/size, no names, code, or internal identifiers.
-- **Title** — What you designed/built and the result. · `Tech` `Tech` `Tech`
--->
-
 ---
 
 <p align="center"><i>Originally from Bosnia and Herzegovina · based in Höchst, Austria 🇦🇹</i></p>
