@@ -1,13 +1,3 @@
-<!--
-  GitHub profile README for github.com/alentoholj
-  Notes on the two calls you left to me:
-   • Instagram: dropped from the profile (kept it professional — LinkedIn + Email + Portfolio only).
-     If you want it back, add an Instagram badge to the "Connect" row below.
-   • DevSecOps-Project-Netflix: presented honestly as a hands-on reference implementation,
-     not as original production work. Remove that line if you'd rather leave it off entirely.
-  Pin your best repos via your profile page (Customize your pins) — they render ABOVE this README.
--->
-
 <h1 align="center">Alen Toholj</h1>
 
 <p align="center">
@@ -78,9 +68,12 @@ My path started in systems engineering and data-center operations, which is wher
 
 ### Featured Work
 
-- **[Terraform-Azure](https://github.com/alentoholj/Terraform-Azure)** — Infrastructure-as-code labs provisioning Azure resources with Terraform.
-- **[Simple-Bash-Scripts](https://github.com/alentoholj/Simple-Bash-Scripts)** — Practical shell scripts for day-to-day system administration and automation.
-- **[DevSecOps-Project-Netflix](https://github.com/alentoholj/DevSecOps-Project-Netflix)** — Hands-on reference implementation of a security-integrated CI/CD pipeline, built while working through a well-known DevSecOps walkthrough.
+_Projects coming soon — currently curating the work worth showing._
+
+<!-- When ready, list your best repos here, e.g.:
+- **[repo-name](https://github.com/alentoholj/repo-name)** — one-line description of what it does.
+Pinning repos on your profile page shows them above this README in the meantime. -->
+
 
 ---
 
