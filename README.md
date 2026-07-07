@@ -1,53 +1,96 @@
-<h1 align="center">Hi 👋, I'm Alen 🌀 from Bosnia and Herzegovina 🇧🇦</h1>
-<br></br>
-<h3 align="center">Cloud, DevOps & Systems Engineer with a passion for building scalable infrastructure and automating workflows. </h3>
+<!--
+  GitHub profile README for github.com/alentoholj
+  Notes on the two calls you left to me:
+   • Instagram: dropped from the profile (kept it professional — LinkedIn + Email + Portfolio only).
+     If you want it back, add an Instagram badge to the "Connect" row below.
+   • DevSecOps-Project-Netflix: presented honestly as a hands-on reference implementation,
+     not as original production work. Remove that line if you'd rather leave it off entirely.
+  Pin your best repos via your profile page (Customize your pins) — they render ABOVE this README.
+-->
+
+<h1 align="center">Alen Toholj</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40px" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
+  <b>Cloud Solution Architect &amp; Cloud Team Lead</b><br>
+  8+ years building, automating, and scaling reliable, mission-critical infrastructure —
+  from data-center operations to modern cloud platforms.
+</p>
 
-  <a href="https://instagram.com/alen.toholj" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40px" alt="Instagram"/>
+<p align="center">
+  <a href="https://alentoholj.dev">
+    <img src="https://img.shields.io/badge/Portfolio-alentoholj.dev-f4b942?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1620" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/alen-toholj-326014141/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alen.toholj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<br></br>
+---
 
-🏢 I’m currently working in [Blum](https://www.blum.com/de/de/) as **Cloud Solution Architect/Platform Operations**
+### `whoami`
 
-💡 Passionate about cloud technologies, automation, and continuous learning.
+I'm a Cloud Solution Architect and DevOps Engineer leading the cloud team at Blum. My job is to design the platforms other teams build on — secure, well-governed cloud environments on **Azure** and **AWS** — and to make sure the road from a developer's commit to production is fast, repeatable, and safe.
 
-⚡ Fun fact: **We guys automate stuff**
+In practice that means codifying infrastructure with **Terraform**, standing up **CI/CD pipelines** with security and compliance built in rather than bolted on, and running containerized workloads on **Kubernetes** / **OpenShift**. I care about the things that don't show up in a demo — **reliability, observability, and cost efficiency** — the difference between a system that works and one you can trust at 3 a.m.
 
-<br></br>
+My path started in systems engineering and data-center operations, which is where I learned how infrastructure actually behaves under pressure. Leading a team now, I spend as much time raising the bar on architecture and automation standards as I do writing code myself.
 
-### 🧑‍💻 About Me
+- 🏗️ Designing landing zones, platform guardrails, and IaC standards
+- 🔁 Building and hardening CI/CD & GitOps pipelines
+- 📈 Focused on reliability, observability, and FinOps
+- 🧭 Leading and mentoring a cloud engineering team
 
-I like building things that scale and fixing things that don’t.
+---
 
-Currently working as a Cloud Solution Architect, my path started in system engineering and grew through DevOps, where I found my passion for cloud and automation.
+### Tech &amp; Tooling
 
-Along the way, I’ve been involved in projects spanning data center operations and modern cloud environments, learning how to design systems that are not just functional, but resilient and efficient.
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Backed by a Master’s degree and real-world experience, I enjoy turning complex challenges into simple, practical solutions.
+<!-- Add these once you're confident defending them in an interview: Bicep, Helm, Python, PowerShell, Prometheus, Grafana, Vault/Key Vault, Argo CD. -->
 
-Curious by nature, I’m always learning and exploring new technologies, because there’s always a smarter way to build.
+---
 
-<br></br>
+### Certifications
 
-#### **🧾 Certifications I have Accomplished**
+- **AZ-400** — Azure DevOps Engineer Expert · Microsoft — [verify](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/DB331F78114B0761)
+- **AZ-104** — Azure Administrator Associate · Microsoft — [verify](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/710E750EEFA6EBD0?sharingId=DEA67547D200D4A9)
+- **AZ-900** — Azure Fundamentals · Microsoft — [verify](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/BC2DEE263AC0C649?sharingId=DEA67547D200D4A9)
+- **CLF-C02** — AWS Certified Cloud Practitioner · Amazon Web Services — [verify](https://www.credly.com/badges/e24d36be-bf69-4180-8a0c-c238c6bbe23c/linked_in_profile)
+- **RHCSA** — Red Hat Certified System Administrator · Red Hat — [verify](https://www.credly.com/badges/5a2ef478-5955-449c-9046-cee45d83b927/linked_in_profile)
+- **LPIC-1** — Linux Administrator · Linux Professional Institute — [verify](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000511607/7ccdb96qh8)
 
-- 🎖 Microsoft Certified: Azure Fundamentals - [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/BC2DEE263AC0C649?sharingId=DEA67547D200D4A9)
+---
 
-- 🎖 Microsoft Certified: Azure Administrator Associate - [AZ-104](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/710E750EEFA6EBD0?sharingId=DEA67547D200D4A9)
+### Featured Work
 
-- 🎖 Microsoft Certified: DevOps Engineer Expert - [AZ-400](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/DB331F78114B0761?sharingId)
+- **[Terraform-Azure](https://github.com/alentoholj/Terraform-Azure)** — Infrastructure-as-code labs provisioning Azure resources with Terraform.
+- **[Simple-Bash-Scripts](https://github.com/alentoholj/Simple-Bash-Scripts)** — Practical shell scripts for day-to-day system administration and automation.
+- **[DevSecOps-Project-Netflix](https://github.com/alentoholj/DevSecOps-Project-Netflix)** — Hands-on reference implementation of a security-integrated CI/CD pipeline, built while working through a well-known DevSecOps walkthrough.
 
-- 🎖 AWS Certified Cloud Practitioner - [AWS Cloud Practitioner](https://www.credly.com/badges/e24d36be-bf69-4180-8a0c-c238c6bbe23c/linked_in_profile)
+---
 
-- 🎖 Certified Linux Administrator (LPIC-1) - [LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000511607/7ccdb96qh8)
+### GitHub Stats
 
-- 🎖 Red Hat® Certified System Administrator (RHCSA®) [RHCSA](https://www.credly.com/badges/5a2ef478-5955-449c-9046-cee45d83b927/linked_in_profile)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alentoholj&show_icons=true&hide_border=false&bg_color=0b1620&title_color=f4b942&text_color=e7eef2&icon_color=3ecf8e&border_color=1d3547" alt="Alen's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alentoholj&layout=compact&hide_border=false&bg_color=0b1620&title_color=f4b942&text_color=e7eef2&border_color=1d3547" alt="Top languages">
+</p>
 
+---
+
+<p align="center"><i>Originally from Bosnia and Herzegovina · based in Höchst, Austria 🇦🇹</i></p>
