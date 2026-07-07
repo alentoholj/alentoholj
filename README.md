@@ -1,13 +1,3 @@
-<!--
-  GitHub profile README for github.com/alentoholj
-  Notes on the two calls you left to me:
-   • Instagram: dropped from the profile (kept it professional — LinkedIn + Email + Portfolio only).
-     If you want it back, add an Instagram badge to the "Connect" row below.
-   • DevSecOps-Project-Netflix: presented honestly as a hands-on reference implementation,
-     not as original production work. Remove that line if you'd rather leave it off entirely.
-  Pin your best repos via your profile page (Customize your pins) — they render ABOVE this README.
--->
-
 <h1 align="center">Alen Toholj</h1>
 
 <p align="center">
@@ -17,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://alentoholj.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-alentoholj.dev-f4b942?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1620" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
