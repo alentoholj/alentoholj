@@ -75,43 +75,6 @@ Azure Policy, RBAC, Key Vault, private networking, monitoring and FinOps for pla
 
 ---
 
-## 🚀 Featured Work
-
-<table>
-<tr>
-<th align="left">Project</th>
-<th align="left">What I did</th>
-<th align="left">Stack</th>
-</tr>
-<tr>
-<td><b>☁️ Storage Platform</b><br><sub>Client project · NDA</sub></td>
-<td>Owned the cloud architecture for a storage API and its companion service: resource topology, infrastructure provisioning and CI/CD across repositories.</td>
-<td><sub>Azure · Terraform · Azure DevOps</sub></td>
-</tr>
-<tr>
-<td><b>🧱 OpenShift on VMware</b><br><sub>Client project · NDA</sub></td>
-<td>Architected and deployed a Red Hat OpenShift platform on VMware, provisioned with Terraform; owned cluster setup, maintenance and app deployments.</td>
-<td><sub>OpenShift · VMware · Terraform · Jenkins</sub></td>
-</tr>
-<tr>
-<td><b>🎓 Education Platform</b><br><sub>Client project · NDA</sub></td>
-<td>Designed the Azure platform approach and IaC foundation, with Azure DevOps pipelines from provisioning to application release.</td>
-<td><sub>Azure · Terraform · Azure DevOps</sub></td>
-</tr>
-<tr>
-<td><b>📦 <a href="https://github.com/alentoholj/Terraform-Azure">Terraform-Azure</a></b><br><sub>Open source</sub></td>
-<td>Hands-on labs for Terraform on Azure: scale sets, VNet and global peering, Azure Backup and more.</td>
-<td><sub>Terraform · Azure</sub></td>
-</tr>
-<tr>
-<td><b>🐚 <a href="https://github.com/alentoholj/Simple-Bash-Scripts">Simple-Bash-Scripts</a></b><br><sub>Open source</sub></td>
-<td>Useful Bash scripts for daily Linux administration.</td>
-<td><sub>Bash · Linux</sub></td>
-</tr>
-</table>
-
----
-
 ## 🏅 Certifications
 
 <table>
