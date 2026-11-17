@@ -1,71 +1,137 @@
-<h1 align="center">Alen Toholj</h1>
-
 <p align="center">
-  <b>Cloud Solution Architect</b><br>
-  8+ years building, automating, and scaling reliable, mission-critical infrastructure —
-  from data-center operations to modern cloud platforms.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1628,100:0078D4&height=210&section=header&text=Alen%20Toholj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Solution%20Architect&descSize=20&descAlignY=60" width="100%" alt="Alen Toholj - Cloud Solution Architect"/>
 </p>
 
 <p align="center">
-  <a href="https://alentoholj.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-f4b942?style=for-the-badge&logo=githubpages&logoColor=0b1620&labelColor=f4b942" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/alentoholj/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:alen.toholj@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<a href="https://alentoholj.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3EA6FF&center=true&vCenter=true&width=640&lines=Designing+secure%2C+automated+cloud+platforms;Azure+%C2%B7+Terraform+%C2%B7+Kubernetes+%C2%B7+GitLab;From+data-center+ops+to+cloud+architecture;Building+things+that+scale+%E2%9A%99%EF%B8%8F" alt="Typing intro"/></a>
+</p>
+
+<p align="center">
+<a href="https://alentoholj.dev"><img src="https://img.shields.io/badge/Portfolio-alentoholj.dev-f4b942?style=for-the-badge&logo=githubpages&logoColor=0b1620" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/alentoholj/"><img src="https://img.shields.io/badge/LinkedIn-alentoholj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:alen.toholj@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### `whoami`
+## 👨‍💻 `whoami`
 
-I'm a Cloud Solution Architect in the IT Cloud Operations & Services team at Blum. My job is to design the platforms other teams build on — secure, well-governed cloud environments on **Azure** and **AWS** — and to make sure the road from a developer's commit to production is fast, repeatable, and safe.
+```yaml
+name:        Alen Toholj
+role:        Cloud Solution Architect @ Blum
+team:        IT Cloud Operations & Services
+experience:  8+ years  (data center -> DevOps -> cloud architecture)
+focus:       [Azure, Terraform, Kubernetes, CI/CD, Platform Engineering]
+motto:       "I like building things that scale and fixing things that don't."
+```
 
-In practice that means codifying infrastructure with **Terraform**, standing up **CI/CD pipelines** with security and compliance built in rather than bolted on, and running containerized workloads on **Kubernetes** / **OpenShift**. I care about the things that don't show up in a demo — **reliability, observability, and cost efficiency** — the difference between a system that works and one you can trust at 3 a.m.
+I design the platforms other teams build on: secure, well-governed cloud environments on **Azure** and **AWS**, and a fast, repeatable, safe road from a developer's commit to production. In practice that means codifying infrastructure with **Terraform**, building **CI/CD pipelines** with security built in rather than bolted on, and running containerized workloads on **Kubernetes / OpenShift**.
 
-My path started in systems engineering and data-center operations, which is where I learned how infrastructure actually behaves under pressure. Today I spend as much time raising the bar on architecture and automation standards as I do writing code myself.
-
-- 🏗️ Designing landing zones, platform guardrails, and IaC standards
-- 🔁 Building and hardening CI/CD & GitOps pipelines
-- 📈 Focused on reliability, observability, and FinOps
-
----
-
-### Tech &amp; Tooling
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- Add these once you're confident defending them in an interview: Bicep, Helm, Python, PowerShell, Prometheus, Grafana, Vault/Key Vault, Argo CD. -->
+My path started in systems engineering and data-center operations, which is where I learned how infrastructure actually behaves under pressure. I care about the things that don't show up in a demo: **reliability, observability and cost efficiency**.
 
 ---
 
-### Certifications
+## 🧭 What I work on
 
-- **AZ-400** — Azure DevOps Engineer Expert · Microsoft — [verify](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/DB331F78114B0761)
-- **AZ-104** — Azure Administrator Associate · Microsoft — [verify](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/710E750EEFA6EBD0?sharingId=DEA67547D200D4A9)
-- **AZ-900** — Azure Fundamentals · Microsoft — [verify](https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/BC2DEE263AC0C649?sharingId=DEA67547D200D4A9)
-- **CLF-C02** — AWS Certified Cloud Practitioner · Amazon Web Services — [verify](https://www.credly.com/badges/e24d36be-bf69-4180-8a0c-c238c6bbe23c/linked_in_profile)
-- **RHCSA** — Red Hat Certified System Administrator · Red Hat — [verify](https://www.credly.com/badges/5a2ef478-5955-449c-9046-cee45d83b927/linked_in_profile)
-- **LPIC-1** — Linux Administrator · Linux Professional Institute — [verify](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000511607/7ccdb96qh8)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🏗️ Cloud Architecture</h3>
+Azure landing zones, hub-and-spoke networking, hybrid connectivity, following the Cloud Adoption and Well-Architected Frameworks.
+</td>
+<td width="50%" valign="top">
+<h3>📜 Infrastructure as Code</h3>
+Terraform and Azure Verified Modules for consistent, repeatable and auditable environments.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔁 CI/CD &amp; Automation</h3>
+GitLab CI, Azure DevOps and GitHub Actions pipelines for infrastructure and applications, with security checks built in.
+</td>
+<td width="50%" valign="top">
+<h3>🛡️ Governance &amp; Operations</h3>
+Azure Policy, RBAC, Key Vault, private networking, monitoring and FinOps for platforms you can trust at 3 a.m.
+</td>
+</tr>
+</table>
 
 ---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,kubernetes,docker,gitlab,githubactions,jenkins,ansible,linux,redhat,bash,git&perline=13" alt="Tech stack icons"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
+<img src="https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="AKS"/>
+<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" alt="Amazon EKS"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware"/>
+<img src="https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white" alt="Veeam"/>
+</p>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">What I did</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td><b>☁️ Storage Platform</b><br><sub>Client project · NDA</sub></td>
+<td>Owned the cloud architecture for a storage API and its companion service: resource topology, infrastructure provisioning and CI/CD across repositories.</td>
+<td><sub>Azure · Terraform · Azure DevOps</sub></td>
+</tr>
+<tr>
+<td><b>🧱 OpenShift on VMware</b><br><sub>Client project · NDA</sub></td>
+<td>Architected and deployed a Red Hat OpenShift platform on VMware, provisioned with Terraform; owned cluster setup, maintenance and app deployments.</td>
+<td><sub>OpenShift · VMware · Terraform · Jenkins</sub></td>
+</tr>
+<tr>
+<td><b>🎓 Education Platform</b><br><sub>Client project · NDA</sub></td>
+<td>Designed the Azure platform approach and IaC foundation, with Azure DevOps pipelines from provisioning to application release.</td>
+<td><sub>Azure · Terraform · Azure DevOps</sub></td>
+</tr>
+<tr>
+<td><b>📦 <a href="https://github.com/alentoholj/Terraform-Azure">Terraform-Azure</a></b><br><sub>Open source</sub></td>
+<td>Hands-on labs for Terraform on Azure: scale sets, VNet and global peering, Azure Backup and more.</td>
+<td><sub>Terraform · Azure</sub></td>
+</tr>
+<tr>
+<td><b>🐚 <a href="https://github.com/alentoholj/Simple-Bash-Scripts">Simple-Bash-Scripts</a></b><br><sub>Open source</sub></td>
+<td>Useful Bash scripts for daily Linux administration.</td>
+<td><sub>Bash · Linux</sub></td>
+</tr>
+</table>
+
+---
+
+## 🏅 Certifications
+
+<table>
+<tr>
+<th align="left">Certification</th>
+<th align="left">Issuer</th>
+<th align="left">Verify</th>
+</tr>
+<tr><td><b>AZ-400</b> · DevOps Engineer Expert</td><td>Microsoft</td><td><a href="https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/DB331F78114B0761">✔ verify</a></td></tr>
+<tr><td><b>AZ-104</b> · Azure Administrator Associate</td><td>Microsoft</td><td><a href="https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/710E750EEFA6EBD0?sharingId=DEA67547D200D4A9">✔ verify</a></td></tr>
+<tr><td><b>AZ-900</b> · Azure Fundamentals</td><td>Microsoft</td><td><a href="https://learn.microsoft.com/api/credentials/share/en-us/AlenToholj-2009/BC2DEE263AC0C649?sharingId=DEA67547D200D4A9">✔ verify</a></td></tr>
+<tr><td><b>CLF-C02</b> · AWS Certified Cloud Practitioner</td><td>Amazon Web Services</td><td><a href="https://www.credly.com/badges/e24d36be-bf69-4180-8a0c-c238c6bbe23c/linked_in_profile">✔ verify</a></td></tr>
+<tr><td><b>RHCSA</b> · Red Hat Certified System Administrator</td><td>Red Hat</td><td><a href="https://www.credly.com/badges/5a2ef478-5955-449c-9046-cee45d83b927/linked_in_profile">✔ verify</a></td></tr>
+<tr><td><b>LPIC-1</b> · Linux Administrator</td><td>Linux Professional Institute</td><td><a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000511607/7ccdb96qh8">✔ verify</a></td></tr>
+</table>
 
 ---
 
 <p align="center"><i>Originally from Bosnia and Herzegovina · based in Höchst, Austria 🇦🇹</i></p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0b1628&height=110&section=footer" width="100%" alt=""/>
+</p>
