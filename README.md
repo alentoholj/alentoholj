@@ -1,7 +1,7 @@
 <h1 align="center">Alen Toholj</h1>
 
 <p align="center">
-  <b>Cloud Solution Architect &amp; Cloud Team Lead</b><br>
+  <b>Cloud Solution Architect</b><br>
   8+ years building, automating, and scaling reliable, mission-critical infrastructure —
   from data-center operations to modern cloud platforms.
 </p>
@@ -10,7 +10,7 @@
   <a href="https://alentoholj.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-f4b942?style=for-the-badge&logo=githubpages&logoColor=0b1620&labelColor=f4b942" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/alen-toholj-326014141/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/alentoholj/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:alen.toholj@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -22,16 +22,15 @@
 
 ### `whoami`
 
-I'm a Cloud Solution Architect and DevOps Engineer leading the cloud team at Blum. My job is to design the platforms other teams build on — secure, well-governed cloud environments on **Azure** and **AWS** — and to make sure the road from a developer's commit to production is fast, repeatable, and safe.
+I'm a Cloud Solution Architect in the IT Cloud Operations & Services team at Blum. My job is to design the platforms other teams build on — secure, well-governed cloud environments on **Azure** and **AWS** — and to make sure the road from a developer's commit to production is fast, repeatable, and safe.
 
 In practice that means codifying infrastructure with **Terraform**, standing up **CI/CD pipelines** with security and compliance built in rather than bolted on, and running containerized workloads on **Kubernetes** / **OpenShift**. I care about the things that don't show up in a demo — **reliability, observability, and cost efficiency** — the difference between a system that works and one you can trust at 3 a.m.
 
-My path started in systems engineering and data-center operations, which is where I learned how infrastructure actually behaves under pressure. Leading a team now, I spend as much time raising the bar on architecture and automation standards as I do writing code myself.
+My path started in systems engineering and data-center operations, which is where I learned how infrastructure actually behaves under pressure. Today I spend as much time raising the bar on architecture and automation standards as I do writing code myself.
 
 - 🏗️ Designing landing zones, platform guardrails, and IaC standards
 - 🔁 Building and hardening CI/CD & GitOps pipelines
 - 📈 Focused on reliability, observability, and FinOps
-- 🧭 Leading and mentoring a cloud engineering team
 
 ---
 
@@ -45,6 +44,7 @@ My path started in systems engineering and data-center operations, which is wher
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
